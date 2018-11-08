@@ -4,7 +4,7 @@
 
 **Open-Source Wallpaper**
 
-Download Link Below : 
+Download Links Below : 
 
 [FHD Screen](https://raw.githubusercontent.com/Phantom-Cluster/Open-Source-wallapaper/master/Wallpaper/Open-Source-FHD.jpg)
 
