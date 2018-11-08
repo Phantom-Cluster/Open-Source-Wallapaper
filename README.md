@@ -14,4 +14,4 @@ Download Link Below :
 
 [4K Screen](https://raw.githubusercontent.com/Phantom-Cluster/Open-Source-wallapaper/master/Wallpaper/4k.jpg)
 
-[8K Screen](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/Wallpaper/8k.jpg)
+[8K Screen](https://raw.githubusercontent.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/Wallpaper/8k.jpg)
