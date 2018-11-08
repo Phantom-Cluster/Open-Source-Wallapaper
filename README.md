@@ -1,4 +1,4 @@
-![](C:\Users\hitan\OneDrive\Desktop\Open-Source-wallapaper\Wallpaper\Open-Source-FHD.jpg)
+![](https://github.com/Phantom-Cluster/Open-Source-wallapaper/blob/master/Wallpaper/Open-Source-FHD.jpg)
 
 
 
