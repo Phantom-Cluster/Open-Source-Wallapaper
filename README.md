@@ -6,12 +6,12 @@
 
 Download Link Below : 
 
-[FHD Screen](https://github.com/Phantom-Cluster/Open-Source-wallapaper/blob/master/Wallpaper/Open-Source-FHD.jpg)
+[FHD Screen](https://raw.githubusercontent.com/Phantom-Cluster/Open-Source-wallapaper/master/Wallpaper/Open-Source-FHD.jpg)
 
-[Macbook Pro](https://github.com/Phantom-Cluster/Open-Source-wallapaper/blob/master/Wallpaper/Macbook%20pro%20Open-Source.jpg)
+[Macbook Pro](https://raw.githubusercontent.com/Phantom-Cluster/Open-Source-wallapaper/master/Wallpaper/Macbook%20pro%20Open-Source.jpg)
 
-[SmartPhone](https://github.com/Phantom-Cluster/Open-Source-wallapaper/blob/master/Wallpaper/smartphone.jpg)
+[SmartPhone](https://raw.githubusercontent.com/Phantom-Cluster/Open-Source-wallapaper/master/Wallpaper/smartphone.jpg)
 
-[4K Screen](https://github.com/Phantom-Cluster/Open-Source-wallapaper/blob/master/Wallpaper/4k.jpg)
+[4K Screen](https://raw.githubusercontent.com/Phantom-Cluster/Open-Source-wallapaper/master/Wallpaper/4k.jpg)
 
-[8K Screen](https://github.com/Phantom-Cluster/Open-Source-wallapaper/blob/master/Wallpaper/8k.jpg)
+[8K Screen](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/Wallpaper/8k.jpg)
