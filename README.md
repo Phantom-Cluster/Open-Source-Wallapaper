@@ -16,26 +16,26 @@ Download Links Below :
 
 ---
 
-![I LOVE OPENSOURCE](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/I-LOVE-OPENSOURCE-VAPORART/Desktop-2560x1440-HD.jpg)
+![I LOVE OPENSOURCE](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Desktop-2560x1440-HD.jpg)
 
 ### **I Love OpenSource Wallpaper**
 
 Download Links Below :
 
-[FHD Screen](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/I-LOVE-OPENSOURCE-VAPORART/Desktop-2560x1440-HD.jpg)
+[FHD Screen](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Desktop-2560x1440-HD.jpg)
 
-[4K Screen](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/I-LOVE-OPENSOURCE-VAPORART/Desktop-3840x2160-4K.jpg)
+[4K Screen](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Desktop-3840x2160-4K.jpg)
 
-[8K Screen](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/I-LOVE-OPENSOURCE-VAPORART/Desktop-7680x4320-8K.jpg)
+[8K Screen](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Desktop-7680x4320-8K.jpg)
 
-[FHD Mobile](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/I-LOVE-OPENSOURCE-VAPORART/Mobile-1080x1920-HD.jpg)
+[FHD Mobile](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Mobile-1080x1920-HD.jpg)
 
-[4K Mobile](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/I-LOVE-OPENSOURCE-VAPORART/Mobile-2160x3840-4k.jpg)
+[4K Mobile](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Mobile-2160x3840-4k.jpg)
 
-[8K Mobile](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/I-LOVE-OPENSOURCE-VAPORART/Mobile-4320x7680-8k.jpg)
+[8K Mobile](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Mobile-4320x7680-8k.jpg)
 
-[Square 2000x2000](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/I-LOVE-OPENSOURCE-VAPORART/Square-2000x2000-HD.jpg)
+[Square 2000x2000](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Square-2000x2000-HD.jpg)
 
-[Square 3800x3800](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/I-LOVE-OPENSOURCE-VAPORART/Square-3800x3800-4k.jpg)
+[Square 3800x3800](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Square-3800x3800-4k.jpg)
 
-[Square 6000x6000](https://github.com/Phantom-Cluster/Open-Source-wallapaper/raw/master/I-LOVE-OPENSOURCE-VAPORART/Square-6000x6000-8k.jpg)
+[Square 6000x6000](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Square-6000x6000-8k.jpg)
