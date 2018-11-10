@@ -1,3 +1,8 @@
+### **Contributors**
+
+[Hitanshu Sahu](https://github.com/Phantom-Cluster)
+[Harsh Trivedi](https://github.com/harsh98trivedi)
+
 ![Open-Source Wallpaper](https://github.com/Phantom-Cluster/Open-Source-wallapaper/blob/master/Wallpaper/Open-Source-FHD.jpg)
 
 ### **Open-Source Wallpaper**
@@ -39,3 +44,6 @@ Download Links Below :
 [Square 3800x3800](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Square-3800x3800-4k.jpg)
 
 [Square 6000x6000](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Square-6000x6000-8k.jpg)
+
+
+
