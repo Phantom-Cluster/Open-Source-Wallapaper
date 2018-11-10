@@ -1,7 +1,6 @@
 ### **Contributors**
 
-[Hitanshu Sahu](https://github.com/Phantom-Cluster)
-[Harsh Trivedi](https://github.com/harsh98trivedi)
+[Hitanshu Sahu](https://github.com/Phantom-Cluster), [Harsh Trivedi](https://github.com/harsh98trivedi)
 
 ![Open-Source Wallpaper](https://github.com/Phantom-Cluster/Open-Source-wallapaper/blob/master/Wallpaper/Open-Source-FHD.jpg)
 
