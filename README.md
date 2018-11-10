@@ -28,6 +28,12 @@ Download Links Below :
 
 [8K Screen](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Desktop-7680x4320-8K.jpg)
 
+[Mac FHD](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Mac-2560x1600-HD.jpg)
+
+[Mac 4K](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Mac-3840x2400-HD.jpg)
+
+[Mac 8K](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Mac-7680x4800-HD.jpg)
+
 [FHD Mobile](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Mobile-1080x1920-HD.jpg)
 
 [4K Mobile](https://raw.githubusercontent.com/harsh98trivedi/Open-Source-Wallapaper/master/I%20LOVE%20OPENSOURCE%20VAPORART/Mobile-2160x3840-4k.jpg)
